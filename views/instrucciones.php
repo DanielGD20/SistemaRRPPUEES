@@ -102,6 +102,134 @@
             <!-- End Navbar -->
             <div class="content">
                 <div class="container-fluid">
+
+                    <div class="row">
+
+                        <div class="col-xl-6 col-lg-12">
+                            <div class="card card-chart">
+                                <div class="card-header card-header-success">
+                                    <h4>Como realizar un Requerimiento</h4>
+                                </div>
+                                <div class="card-body">
+                                    <h4 class="card-title">Daily Sales</h4>
+                                    <p class="card-category">
+                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati aspernatur dicta totam. Aut, incidunt possimus ex sed blanditiis amet laborum dolorem ipsam beatae facere magnam odio recusandae vitae iure dolor.
+                                    </p>
+                                </div>
+                                <div class="card-footer">
+                                    <div class="stats">
+                                        <i class="material-icons">access_time</i> UEES
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="col-xl-6 col-lg-12">
+                            <div class="card card-chart">
+                                <div class="card-header card-header-danger">
+                                    <h4>Que sucedera luego de realizar la petición</h4>
+                                </div>
+                                <div class="card-body">
+                                    <h4 class="card-title">Daily Sales</h4>
+                                    <p class="card-category">
+                                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Natus numquam sequi in, voluptates possimus assumenda illo laboriosam necessitatibus quibusdam culpa veniam sunt ea ratione fuga accusamus omnis ullam dolore? Sed.
+                                    </p>
+                                </div>
+                                <div class="card-footer">
+                                    <div class="stats">
+                                        <i class="material-icons">access_time</i> UEES
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                    </div>
+
+                    <div class="row">
+
+                        <div class="col col-md-12 mx-auto">
+                            <h2>Participantes del departamento</h2>
+                            <hr>
+                        </div>
+
+                        <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6">
+                            <div class="card card-stats">
+                                <div class="card-header card-header-warning card-header-icon">
+                                    <div class="card-icon">
+                                        <i class="material-icons">insert_photo</i>
+                                    </div>
+                                    <p class="card-category">Cristopher Andres</p>
+                                    <h3 class="card-title">Diseñador Gráfico
+                                    </h3>
+                                </div>
+                                <div class="card-footer">
+                                    <div class="stats">
+                                        <i class="material-icons">account_circle</i>
+                                        <a href="#pablo" class="success-link">crisandreade@uees.edu.ec</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6">
+                            <div class="card card-stats">
+                                <div class="card-header card-header-success card-header-icon">
+                                    <div class="card-icon">
+                                        <i class="material-icons">insert_photo</i>
+                                    </div>
+                                    <p class="card-category">Belén Vergara</p>
+                                    <h3 class="card-title">Diseñadora Gráfica</h3>
+                                </div>
+                                <div class="card-footer">
+                                    <div class="stats">
+                                        <i class="material-icons">account_circle</i>
+                                        <a href="#pablo" class="success-link">bvergaraz@uees.edu.ec</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6">
+                            <div class="card card-stats">
+                                <div class="card-header card-header-danger card-header-icon">
+                                    <div class="card-icon">
+                                        <i class="material-icons">code</i>
+                                    </div>
+                                    <p class="card-category">Anthony Villegas</p>
+                                    <h3 class="card-title">Administrador CRM</h3>
+                                </div>
+                                <div class="card-footer">
+                                    <div class="stats">
+                                        <i class="material-icons">account_circle</i>
+                                        <a href="#pablo" class="success-link">advillegas@uees.edu.ec</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6">
+                            <div class="card card-stats">
+                                <div class="card-header card-header-info card-header-icon">
+                                    <div class="card-icon">
+                                        <i class="material-icons">
+                                            person_add
+                                        </i>
+                                    </div>
+                                    <p class="card-category">Celina Jaya</p>
+                                    <h3 class="card-title">Coordinadora BTL</h3>
+                                </div>
+                                <div class="card-footer">
+                                    <div class="stats">
+                                        <i class="material-icons">account_circle</i>
+                                        <a href="#pablo" class="success-link"> mjaya@uees.edu.ec </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
                     <!-- your content here -->
                 </div>
             </div>

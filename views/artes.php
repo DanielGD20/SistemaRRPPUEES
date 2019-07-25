@@ -101,11 +101,408 @@
             <!-- End Navbar -->
             <div class="content">
                 <div class="container-fluid">
-                    <!-- your content here -->
+                    <div class="row">
+
+                        <div class="col-md-6">
+
+                            <div class="row">
+                                <div class="col-md-6">
+
+                                    <div class="card card-chart">
+                                        <div class="card-header card-header-success">
+                                            <h4>Como realizar un Requerimiento</h4>
+                                        </div>
+                                        <div class="card-body">
+                                            <h4 class="card-title">Daily Sales</h4>
+                                            <p class="card-category">
+                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati aspernatur dicta totam. Aut, incidunt possimus ex sed blanditiis amet laborum dolorem ipsam beatae facere magnam odio recusandae vitae iure dolor.
+                                            </p>
+                                        </div>
+                                        <div class="card-footer">
+                                            <div class="stats">
+                                                <i class="material-icons">access_time</i> UEES
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="card card-chart">
+                                        <div class="card-header card-header-success">
+                                            <h4>Como realizar un Requerimiento</h4>
+                                        </div>
+                                        <div class="card-body">
+                                            <h4 class="card-title">Daily Sales</h4>
+                                            <p class="card-category">
+                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati aspernatur dicta totam. Aut, incidunt possimus ex sed blanditiis amet laborum dolorem ipsam beatae facere magnam odio recusandae vitae iure dolor.
+                                            </p>
+                                        </div>
+                                        <div class="card-footer">
+                                            <div class="stats">
+                                                <i class="material-icons">access_time</i> UEES
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                            <div class="row">
+                                <div class="col-md-6">
+
+                                    <div class="card card-chart">
+                                        <div class="card-header card-header-success">
+                                            <h4>Como realizar un Requerimiento</h4>
+                                        </div>
+                                        <div class="card-body">
+                                            <h4 class="card-title">Daily Sales</h4>
+                                            <p class="card-category">
+                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati aspernatur dicta totam. Aut, incidunt possimus ex sed blanditiis amet laborum dolorem ipsam beatae facere magnam odio recusandae vitae iure dolor.
+                                            </p>
+                                        </div>
+                                        <div class="card-footer">
+                                            <div class="stats">
+                                                <i class="material-icons">access_time</i> UEES
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="card card-chart">
+                                        <div class="card-header card-header-success">
+                                            <h4>Como realizar un Requerimiento</h4>
+                                        </div>
+                                        <div class="card-body">
+                                            <h4 class="card-title">Daily Sales</h4>
+                                            <p class="card-category">
+                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati aspernatur dicta totam. Aut, incidunt possimus ex sed blanditiis amet laborum dolorem ipsam beatae facere magnam odio recusandae vitae iure dolor.
+                                            </p>
+                                        </div>
+                                        <div class="card-footer">
+                                            <div class="stats">
+                                                <i class="material-icons">access_time</i> UEES
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                            <div class="row">
+                                <div class="col-md-6">
+
+                                    <div class="card card-chart">
+                                        <div class="card-header card-header-success">
+                                            <h4>Como realizar un Requerimiento</h4>
+                                        </div>
+                                        <div class="card-body">
+                                            <h4 class="card-title">Daily Sales</h4>
+                                            <p class="card-category">
+                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati aspernatur dicta totam. Aut, incidunt possimus ex sed blanditiis amet laborum dolorem ipsam beatae facere magnam odio recusandae vitae iure dolor.
+                                            </p>
+                                        </div>
+                                        <div class="card-footer">
+                                            <div class="stats">
+                                                <i class="material-icons">access_time</i> UEES
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="card card-chart">
+                                        <div class="card-header card-header-success">
+                                            <h4>Como realizar un Requerimiento</h4>
+                                        </div>
+                                        <div class="card-body">
+                                            <h4 class="card-title">Daily Sales</h4>
+                                            <p class="card-category">
+                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati aspernatur dicta totam. Aut, incidunt possimus ex sed blanditiis amet laborum dolorem ipsam beatae facere magnam odio recusandae vitae iure dolor.
+                                            </p>
+                                        </div>
+                                        <div class="card-footer">
+                                            <div class="stats">
+                                                <i class="material-icons">access_time</i> UEES
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                            <div class="row">
+                                <div class="col-md-6">
+
+                                    <div class="card card-chart">
+                                        <div class="card-header card-header-success">
+                                            <h4>Como realizar un Requerimiento</h4>
+                                        </div>
+                                        <div class="card-body">
+                                            <h4 class="card-title">Daily Sales</h4>
+                                            <p class="card-category">
+                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati aspernatur dicta totam. Aut, incidunt possimus ex sed blanditiis amet laborum dolorem ipsam beatae facere magnam odio recusandae vitae iure dolor.
+                                            </p>
+                                        </div>
+                                        <div class="card-footer">
+                                            <div class="stats">
+                                                <i class="material-icons">access_time</i> UEES
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="card card-chart">
+                                        <div class="card-header card-header-success">
+                                            <h4>Como realizar un Requerimiento</h4>
+                                        </div>
+                                        <div class="card-body">
+                                            <h4 class="card-title">Daily Sales</h4>
+                                            <p class="card-category">
+                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati aspernatur dicta totam. Aut, incidunt possimus ex sed blanditiis amet laborum dolorem ipsam beatae facere magnam odio recusandae vitae iure dolor.
+                                            </p>
+                                        </div>
+                                        <div class="card-footer">
+                                            <div class="stats">
+                                                <i class="material-icons">access_time</i> UEES
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                            <div class="row">
+                                <div class="col-md-6">
+
+                                    <div class="card card-chart">
+                                        <div class="card-header card-header-success">
+                                            <h4>Como realizar un Requerimiento</h4>
+                                        </div>
+                                        <div class="card-body">
+                                            <h4 class="card-title">Daily Sales</h4>
+                                            <p class="card-category">
+                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati aspernatur dicta totam. Aut, incidunt possimus ex sed blanditiis amet laborum dolorem ipsam beatae facere magnam odio recusandae vitae iure dolor.
+                                            </p>
+                                        </div>
+                                        <div class="card-footer">
+                                            <div class="stats">
+                                                <i class="material-icons">access_time</i> UEES
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="card card-chart">
+                                        <div class="card-header card-header-success">
+                                            <h4>Como realizar un Requerimiento</h4>
+                                        </div>
+                                        <div class="card-body">
+                                            <h4 class="card-title">Daily Sales</h4>
+                                            <p class="card-category">
+                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati aspernatur dicta totam. Aut, incidunt possimus ex sed blanditiis amet laborum dolorem ipsam beatae facere magnam odio recusandae vitae iure dolor.
+                                            </p>
+                                        </div>
+                                        <div class="card-footer">
+                                            <div class="stats">
+                                                <i class="material-icons">access_time</i> UEES
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                            <div class="row">
+                                <div class="col-md-6">
+
+                                    <div class="card card-chart">
+                                        <div class="card-header card-header-success">
+                                            <h4>Como realizar un Requerimiento</h4>
+                                        </div>
+                                        <div class="card-body">
+                                            <h4 class="card-title">Daily Sales</h4>
+                                            <p class="card-category">
+                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati aspernatur dicta totam. Aut, incidunt possimus ex sed blanditiis amet laborum dolorem ipsam beatae facere magnam odio recusandae vitae iure dolor.
+                                            </p>
+                                        </div>
+                                        <div class="card-footer">
+                                            <div class="stats">
+                                                <i class="material-icons">access_time</i> UEES
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="card card-chart">
+                                        <div class="card-header card-header-success">
+                                            <h4>Como realizar un Requerimiento</h4>
+                                        </div>
+                                        <div class="card-body">
+                                            <h4 class="card-title">Daily Sales</h4>
+                                            <p class="card-category">
+                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati aspernatur dicta totam. Aut, incidunt possimus ex sed blanditiis amet laborum dolorem ipsam beatae facere magnam odio recusandae vitae iure dolor.
+                                            </p>
+                                        </div>
+                                        <div class="card-footer">
+                                            <div class="stats">
+                                                <i class="material-icons">access_time</i> UEES
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                            <div class="row">
+                                <div class="col-md-6">
+
+                                    <div class="card card-chart">
+                                        <div class="card-header card-header-success">
+                                            <h4>Como realizar un Requerimiento</h4>
+                                        </div>
+                                        <div class="card-body">
+                                            <h4 class="card-title">Daily Sales</h4>
+                                            <p class="card-category">
+                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati aspernatur dicta totam. Aut, incidunt possimus ex sed blanditiis amet laborum dolorem ipsam beatae facere magnam odio recusandae vitae iure dolor.
+                                            </p>
+                                        </div>
+                                        <div class="card-footer">
+                                            <div class="stats">
+                                                <i class="material-icons">access_time</i> UEES
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="card card-chart">
+                                        <div class="card-header card-header-success">
+                                            <h4>Como realizar un Requerimiento</h4>
+                                        </div>
+                                        <div class="card-body">
+                                            <h4 class="card-title">Daily Sales</h4>
+                                            <p class="card-category">
+                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati aspernatur dicta totam. Aut, incidunt possimus ex sed blanditiis amet laborum dolorem ipsam beatae facere magnam odio recusandae vitae iure dolor.
+                                            </p>
+                                        </div>
+                                        <div class="card-footer">
+                                            <div class="stats">
+                                                <i class="material-icons">access_time</i> UEES
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                            <div class="row">
+                                <div class="col-md-6">
+
+                                    <div class="card card-chart">
+                                        <div class="card-header card-header-success">
+                                            <h4>Como realizar un Requerimiento</h4>
+                                        </div>
+                                        <div class="card-body">
+                                            <h4 class="card-title">Daily Sales</h4>
+                                            <p class="card-category">
+                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati aspernatur dicta totam. Aut, incidunt possimus ex sed blanditiis amet laborum dolorem ipsam beatae facere magnam odio recusandae vitae iure dolor.
+                                            </p>
+                                        </div>
+                                        <div class="card-footer">
+                                            <div class="stats">
+                                                <i class="material-icons">access_time</i> UEES
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="card card-chart">
+                                        <div class="card-header card-header-success">
+                                            <h4>Como realizar un Requerimiento</h4>
+                                        </div>
+                                        <div class="card-body">
+                                            <h4 class="card-title">Daily Sales</h4>
+                                            <p class="card-category">
+                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati aspernatur dicta totam. Aut, incidunt possimus ex sed blanditiis amet laborum dolorem ipsam beatae facere magnam odio recusandae vitae iure dolor.
+                                            </p>
+                                        </div>
+                                        <div class="card-footer">
+                                            <div class="stats">
+                                                <i class="material-icons">access_time</i> UEES
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                            <div class="row">
+                                <div class="col-md-6">
+
+                                    <div class="card card-chart">
+                                        <div class="card-header card-header-success">
+                                            <h4>Como realizar un Requerimiento</h4>
+                                        </div>
+                                        <div class="card-body">
+                                            <h4 class="card-title">Daily Sales</h4>
+                                            <p class="card-category">
+                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati aspernatur dicta totam. Aut, incidunt possimus ex sed blanditiis amet laborum dolorem ipsam beatae facere magnam odio recusandae vitae iure dolor.
+                                            </p>
+                                        </div>
+                                        <div class="card-footer">
+                                            <div class="stats">
+                                                <i class="material-icons">access_time</i> UEES
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="card card-chart">
+                                        <div class="card-header card-header-success">
+                                            <h4>Como realizar un Requerimiento</h4>
+                                        </div>
+                                        <div class="card-body">
+                                            <h4 class="card-title">Daily Sales</h4>
+                                            <p class="card-category">
+                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati aspernatur dicta totam. Aut, incidunt possimus ex sed blanditiis amet laborum dolorem ipsam beatae facere magnam odio recusandae vitae iure dolor.
+                                            </p>
+                                        </div>
+                                        <div class="card-footer">
+                                            <div class="stats">
+                                                <i class="material-icons">access_time</i> UEES
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+
+
+                        </div>
+
+
+                        <div class="col-md-6">
+                            <div class="card">
+                                <div class="card-header card-header-success">
+                                    <h4>Formulario de Requerimientos</h4>
+                                </div>
+                                <div class="card-body">
+                                    <script type="text/javascript" src="https://form.jotformz.com/jsform/92026955066663"></script>
+                                </div>
+                                <div class="card-footer">
+                                    <div class="stats">
+                                        <i class="material-icons">access_time</i> UEES
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </div>
+
                 </div>
             </div>
-            <?php include("firma.php")  ?>
         </div>
+    </div>
+    <?php include("firma.php")  ?>
+    </div>
     </div>
     <?php include("footer.php")  ?>
 </body>
