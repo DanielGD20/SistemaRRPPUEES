@@ -110,13 +110,10 @@
 
                                     <div class="card card-chart">
                                         <div class="card-header card-header-success">
-                                            <h4>Como realizar un Requerimiento</h4>
+                                            <h4>Certificado</h4>
                                         </div>
                                         <div class="card-body">
-                                            <h4 class="card-title">Daily Sales</h4>
-                                            <p class="card-category">
-                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati aspernatur dicta totam. Aut, incidunt possimus ex sed blanditiis amet laborum dolorem ipsam beatae facere magnam odio recusandae vitae iure dolor.
-                                            </p>
+                                            <img src="../assets/img/artesmuestras/certificado.jpg" class="img-fluid" alt="Responsive image">
                                         </div>
                                         <div class="card-footer">
                                             <div class="stats">
@@ -476,8 +473,6 @@
 
 
                         </div>
-
-
                         <div class="col-md-6">
                             <div class="card">
                                 <div class="card-header card-header-success">
